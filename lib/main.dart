@@ -59,7 +59,7 @@ class _AlbaniState extends State<Albani> {
                       },
                     )
                   : Text(
-                      "I love yuo Istriku",
+                      "I love you Istriku",
                       style: TextStyle(
                           fontSize: 30.0, fontWeight: FontWeight.bold),
                     ),

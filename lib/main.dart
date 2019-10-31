@@ -43,7 +43,7 @@ class _AlbaniState extends State<Albani> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               (nilai == 5)
-                  ? Image.asset('assets/utit.jpg')
+                  ? Image.asset('assets/uwais.png')
                   : Text(
                       nilai.toString(),
                       style: TextStyle(fontSize: 80.0),
